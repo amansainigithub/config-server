@@ -1,3 +1,5 @@
+  application:
+    name: user-service-config
 eureka:
   instance:
     ip-address: true
