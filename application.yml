@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: config-server-aman
-
 eureka:
   instance:
     ip-address: true
